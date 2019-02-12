@@ -12,3 +12,8 @@ Collyer in the Linux Journal entitled:
 
 There's nothing to see here yet. I am merely getting the repository
 set up so that I can begin development. Check back soon for updates.
+
+## Disclaimer
+
+This is not an officially supported Google product. It is a personal
+project of Pepper Lebeck-Jobe.
